@@ -1,4 +1,4 @@
 name,age,sal
 gaja,32,100
 raj,30,500
-jay,35,5000
+jay,35,
